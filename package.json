@@ -1,0 +1,16 @@
+{
+  "name": "selenium-grid",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node test.js",
+    "test": "jasmine-node spec/"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jasmine-node": "^1.14.5",
+    "selenium-webdriver": "3.0.0-beta-2"
+  }
+}
